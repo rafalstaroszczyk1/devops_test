@@ -1,1 +1,1 @@
-cat README.md
+sh 'cat README.md'
